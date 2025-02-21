@@ -20,7 +20,7 @@ function PlanetPage() {
   const planetSize = planetSizes[planet.name.toLowerCase()] || "w-48 h-48";
 
   return (
-    <div className="min-h-[100vh] bg-[#070724] text-white pb-6 overflow-hidden font-sans">
+    <div className="min-h-[100vh] bg-[#070724] text-white pb-6 md:overflow-hidden font-sans">
       <nav className="flex flex-row sm:flex-col pt-8 pb-7 md:pb-0 md:pt-0 md:flex-row justify-between items-center space-x-6 text-gray-400 uppercase h-[70px] sm:h-[160px] md:h-[45px] pl-[24px] pr-[24px]  sm:pl-9 sm:pr-9 border-b-1 tracking-wide">
         <h1 className="text-base flex items-center justify-center text-white font-antonio">
           THE PLANETS
