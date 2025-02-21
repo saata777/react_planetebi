@@ -1,12 +1,12 @@
 const planetSizes = {
-    mercury:  "size-[20%]" ,
-    venus:  "size-[25%]" ,
-    earth: "size-[28%]" ,
-    mars:  "size-[22%]" ,
-    jupiter:  "size-[50%]" ,
-    saturn:  "size-[45%]" ,
-    uranus: "size-[38%]" ,
-    neptune:  "size-[36%]" ,
+    mercury:  "size-[26%]" ,
+    venus:  "size-[31%]" ,
+    earth: "size-[34%]" ,
+    mars:  "size-[28%]" ,
+    jupiter:  "size-[54%]" ,
+    saturn:  "size-[53%]" ,
+    uranus: "size-[44%]" ,
+    neptune:  "size-[40%]" ,
   };
   
   export default planetSizes;
